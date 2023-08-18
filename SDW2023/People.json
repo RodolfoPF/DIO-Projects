@@ -1,0 +1,62 @@
+[
+    {
+        "nome": "Ana",
+        "profissao": "Engenheira",
+        "diversao_favorita": "Praticar esportes",
+        "busca_compras": "Roupas e acessórios"
+    },
+    {
+        "nome": "Pedro",
+        "profissao": "Designer",
+        "diversao_favorita": "Pintura",
+        "busca_compras": "Eletrônicos"
+    },
+    {
+        "nome": "Julia",
+        "profissao": "Médica",
+        "diversao_favorita": "Leitura",
+        "busca_compras": "Livros e artigos científicos"
+    },
+    {
+        "nome": "Lucas",
+        "profissao": "Programador",
+        "diversao_favorita": "Jogos de computador",
+        "busca_compras": "Hardware de computador"
+    },
+    {
+        "nome": "Isabela",
+        "profissao": "Advogada",
+        "diversao_favorita": "Dança",
+        "busca_compras": "Roupas e acessórios"
+    },
+    {
+        "nome": "Rafael",
+        "profissao": "Engenheiro Civil",
+        "diversao_favorita": "Futebol",
+        "busca_compras": "Artigos esportivos"
+    },
+    {
+        "nome": "Fernanda",
+        "profissao": "Professora",
+        "diversao_favorita": "Caminhadas ao ar livre",
+        "busca_compras": "Material educativo"
+    },
+    {
+        "nome": "Gustavo",
+        "profissao": "Arquiteto",
+        "diversao_favorita": "Viajar",
+        "busca_compras": "Decoração de interiores"
+    },
+    {
+        "nome": "Mariana",
+        "profissao": "Psicóloga",
+        "diversao_favorita": "Música",
+        "busca_compras": "Instrumentos musicais"
+    },
+    {
+        "nome": "Carlos",
+        "profissao": "Empresário",
+        "diversao_favorita": "Cozinhar",
+        "busca_compras": "Utensílios de cozinha"
+    }
+]
